@@ -2,13 +2,12 @@
 
 @section('title', 'Change Password')
 
-
 @section('content')
     <div class="row">
         <div class="col-md-6">
             <div class="box box-primary">
                 <div class="box-header with-border">
-                    <h3 class="box-title">Change Password</h3>
+                    <h3 class="box-title">{{ __('Change Password') }}</h3>
                 </div>
                 <form method="POST" action="{{ route('password.update') }}">
                     @csrf
