@@ -1,0 +1,26 @@
+{
+    "Create New": "Nuevo Registro",
+    "Edit": "Editar",
+    "Disable": "Desactivar",
+    "About":"Acerca de mi",
+    "Update": "Actualizar",
+    "Cancel": "Cancelar",
+    "name": "Nombre",
+    "last_name": "Apellido",
+    "phone_number": "Telefono",
+    "identification_type": "Tipo de Documento",
+    "identification_number": "Numero de Documento",
+    "email": "Correo Electronico",
+    "password": "Contraseña",
+    "confirm_password": "Confirmar Contraseña",
+    "age": "Edad",
+    "role": "Rol de Usuario",
+    "Register":"Registrar",
+    "Show":"Ver",
+    "Active": "Activo",
+    "User Details": "Detales de Usuario",
+    "create_time": "Fecha de Creacion",
+    "last_update": "Ultima Actualizacion",
+    "Back": "Atras"
+
+}
