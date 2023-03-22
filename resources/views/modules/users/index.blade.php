@@ -14,7 +14,7 @@
             <div class="card-header">
                 <nav class="navbar bg-body-tertiary">
                     <form class="container-fluid justify-content-start">
-                        <a href="{{ route('users.showCreate')}}" class="btn btn-outline-primary me-2 btn-sm">{{ __('Create New') }}</a>
+                        <a href="{{ route('users.showCreate')}}" class="btn btn-outline-primary me-2 btn-sm">{{ __('Cr954332eate New') }}</a>
                     </form>
                 </nav>
             </div>
